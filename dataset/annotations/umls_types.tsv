@@ -1,0 +1,72 @@
+UMLS Semantic Type	 Disease	 Medication	 Observation	 Procedure	 Symptom	 Total
+Acquired Abnormality 	  	  	  	  	 1 	 1 
+Amino Acid, Peptide, or Protein|Biologically Active Substance 	  	  	  	 53 	  	 53 
+Amino Acid, Peptide, or Protein|Enzyme 	  	  	  	 1 	  	 1 
+Amino Acid, Peptide, or Protein|Hormone 	  	 16 	  	  	  	 16 
+Amino Acid, Peptide, or Protein|Immunologic Factor 	 2 	  	  	 4 	  	 6 
+Amino Acid, Peptide, or Protein|Pharmacologic Substance 	  	 310 	  	  	  	 310 
+Amino Acid, Peptide, or Protein|Pharmacologic Substance|Biologically Active Substance 	  	 97 	  	  	  	 97 
+Amino Acid, Peptide, or Protein|Pharmacologic Substance|Enzyme 	  	 88 	  	  	  	 88 
+Amino Acid, Peptide, or Protein|Pharmacologic Substance|Hormone 	  	 526 	  	  	  	 526 
+Amino Acid, Peptide, or Protein|Pharmacologic Substance|Immunologic Factor 	  	 1 	  	 12 	  	 13 
+Anatomical Abnormality 	 17 	  	  	  	 6 	 23 
+Antibiotic 	  	 17 	  	  	  	 17 
+Body Part, Organ, or Organ Component 	  	  	  	 1 	  	 1 
+Body Space or Junction 	 1 	  	  	  	  	 1 
+Body Substance 	  	 3 	  	 13 	 3 	 19 
+Classification 	 1 	  	  	 18 	  	 19 
+Clinical Attribute 	  	 17 	 1 	 15 	 1 	 34 
+Clinical Drug 	  	 79 	  	 1 	  	 80 
+Conceptual Entity 	  	  	  	 1 	  	 1 
+Congenital Abnormality 	 6 	  	  	  	  	 6 
+Daily or Recreational Activity 	  	  	  	 4 	  	 4 
+Diagnostic Procedure 	 23 	  	  	 957 	 2 	 982 
+Disease or Syndrome 	 3383 	  	  	 3 	 214 	 3600 
+Drug Delivery Device 	  	  	  	  	 1 	 1 
+Educational Activity 	  	  	  	 4 	  	 4 
+Finding 	 483 	 22 	 90 	 746 	 1534 	 2875 
+Food 	  	  	  	 5 	  	 5 
+Functional Concept 	  	  	  	 7 	 1 	 8 
+Genetic Function 	  	  	  	 49 	  	 49 
+Health Care Activity 	 9 	 41 	  	 273 	 103 	 426 
+Idea or Concept 	  	  	  	 1 	  	 1 
+Indicator, Reagent, or Diagnostic Aid 	  	  	  	 1 	  	 1 
+Individual Behavior 	  	  	  	 15 	  	 15 
+Injury or Poisoning 	 472 	  	  	 1 	 6 	 479 
+Inorganic Chemical 	  	  	  	 5 	  	 5 
+Intellectual Product 	 3 	 11 	 3 	 69 	 83 	 169 
+Laboratory or Test Result 	  	  	 39 	 16 	  	 55 
+Laboratory Procedure 	  	 2 	 6 	 1190 	  	 1198 
+Manufactured Object|Health Care Related Organization 	  	  	  	 1 	  	 1 
+Medical Device 	 21 	 8 	  	 61 	  	 90 
+Mental or Behavioral Dysfunction 	  	  	  	 1 	 98 	 99 
+Mental Process 	  	  	  	  	 59 	 59 
+Molecular Biology Research Technique 	  	  	  	 22 	  	 22 
+Molecular Function 	  	 1 	  	  	  	 1 
+Neoplastic Process 	 1 	  	  	  	  	 1 
+Nucleic Acid, Nucleoside, or Nucleotide|Pharmacologic Substance|Immunologic Factor 	  	  	  	 3 	  	 3 
+Organ or Tissue Function 	 2 	  	  	 3 	 1 	 6 
+Organic Chemical 	 5 	 19 	  	  	  	 24 
+Organic Chemical|Antibiotic 	  	 106 	  	  	  	 106 
+Organic Chemical|Pharmacologic Substance 	  	 1657 	  	 2 	  	 1659 
+Organic Chemical|Pharmacologic Substance|Biologically Active Substance 	  	 2 	  	  	  	 2 
+Organic Chemical|Pharmacologic Substance|Hazardous or Poisonous Substance 	  	 9 	  	  	  	 9 
+Organic Chemical|Pharmacologic Substance|Vitamin 	  	 18 	  	  	  	 18 
+Organism Attribute 	 1 	  	  	  	 5 	 6 
+Organism Function 	  	  	  	  	 2 	 2 
+Pathologic Function 	 438 	  	  	  	 47 	 485 
+Pharmacologic Substance 	  	 126 	  	 55 	 7 	 188 
+Pharmacologic Substance|Hormone 	  	 38 	  	  	  	 38 
+Pharmacologic Substance|Immunologic Factor 	 22 	  	  	 9 	  	 31 
+Pharmacologic Substance|Inorganic Chemical 	  	 5 	  	 3 	  	 8 
+Physiologic Function 	  	  	  	 29 	 19 	 48 
+Professional or Occupational Group 	  	  	  	 1 	  	 1 
+Qualitative Concept 	  	  	 2 	  	 6 	 8 
+Sign or Symptom 	 15 	 1 	 1 	  	 1991 	 2008 
+Social Behavior 	  	  	  	 1 	  	 1 
+Spatial Concept 	  	  	  	 7 	  	 7 
+Temporal Concept 	  	  	  	 2 	  	 2 
+Therapeutic or Preventive Procedure 	 28 	 23 	  	 1308 	 12 	 1371 
+Virus 	 8 	  	  	  	  	 8 
+Grand Total	 4941	 3243	 142	 4973	 4202	 17501
+
